@@ -1,0 +1,7 @@
+ZeroLoom is a lightweight text analysis toolkit.
+
+Python makes text processing simple.
+ZeroLoom can count words, characters, and lines.
+
+Text analysis is useful for developers.
+Python is useful for automation.
